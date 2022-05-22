@@ -1,0 +1,118 @@
+[20-Jan-2018 19:37:43 Europe/Berlin] PHP Notice:  Undefined property: DB::$address in G:\xamp\htdocs\chatapp\ussd\libs\db.php on line 31
+[20-Jan-2018 19:37:43 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 151
+[20-Jan-2018 19:37:43 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 152
+[20-Jan-2018 19:37:43 Europe/Berlin] PHP Fatal error:  Uncaught exception 'SMSServiceException' in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php:159
+Stack trace:
+#0 G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php(144): SMSSender->handleResponse('{"destinationRe...')
+#1 G:\xamp\htdocs\chatapp\ussd\listener.php(144): SMSSender->sms('set a username:...', 'tel:88018667423...')
+#2 {main}
+  thrown in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 159
+[20-Jan-2018 19:39:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 151
+[20-Jan-2018 19:39:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 152
+[20-Jan-2018 19:39:27 Europe/Berlin] PHP Fatal error:  Uncaught exception 'SMSServiceException' in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php:159
+Stack trace:
+#0 G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php(144): SMSSender->handleResponse('{"destinationRe...')
+#1 G:\xamp\htdocs\chatapp\ussd\listener.php(144): SMSSender->sms('set a username:...', 'tel:88018667423...')
+#2 {main}
+  thrown in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 159
+[20-Jan-2018 19:39:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 151
+[20-Jan-2018 19:39:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 152
+[20-Jan-2018 19:39:59 Europe/Berlin] PHP Fatal error:  Uncaught exception 'SMSServiceException' in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php:159
+Stack trace:
+#0 G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php(144): SMSSender->handleResponse('{"destinationRe...')
+#1 G:\xamp\htdocs\chatapp\ussd\listener.php(144): SMSSender->sms('set a username:...', 'tel:88018667423...')
+#2 {main}
+  thrown in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 159
+[20-Jan-2018 19:42:08 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 151
+[20-Jan-2018 19:42:08 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 152
+[20-Jan-2018 19:42:08 Europe/Berlin] PHP Fatal error:  Uncaught exception 'SMSServiceException' in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php:159
+Stack trace:
+#0 G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php(144): SMSSender->handleResponse('{"destinationRe...')
+#1 G:\xamp\htdocs\chatapp\ussd\listener.php(144): SMSSender->sms('set a username:...', 'tel:88018667423...')
+#2 {main}
+  thrown in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 159
+[20-Jan-2018 19:45:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 151
+[20-Jan-2018 19:45:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 152
+[20-Jan-2018 19:45:37 Europe/Berlin] PHP Fatal error:  Uncaught exception 'SMSServiceException' in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php:159
+Stack trace:
+#0 G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php(144): SMSSender->handleResponse('{"destinationRe...')
+#1 G:\xamp\htdocs\chatapp\ussd\listener.php(144): SMSSender->sms('set a username:...', 'tel:88018667423...')
+#2 {main}
+  thrown in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 159
+[20-Jan-2018 19:48:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 151
+[20-Jan-2018 19:48:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 152
+[20-Jan-2018 19:48:37 Europe/Berlin] PHP Fatal error:  Uncaught exception 'SMSServiceException' in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php:159
+Stack trace:
+#0 G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php(144): SMSSender->handleResponse('{"destinationRe...')
+#1 G:\xamp\htdocs\chatapp\ussd\listener.php(144): SMSSender->sms('set a username:...', 'tel:88018667423...')
+#2 {main}
+  thrown in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 159
+[20-Jan-2018 20:06:03 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 151
+[20-Jan-2018 20:06:03 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 152
+[20-Jan-2018 20:06:03 Europe/Berlin] PHP Fatal error:  Uncaught exception 'SMSServiceException' in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php:159
+Stack trace:
+#0 G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php(144): SMSSender->handleResponse('{"destinationRe...')
+#1 G:\xamp\htdocs\chatapp\ussd\listener.php(144): SMSSender->sms('set a username:...', 'tel:88018667423...')
+#2 {main}
+  thrown in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 159
+[20-Jan-2018 20:06:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 151
+[20-Jan-2018 20:06:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 152
+[20-Jan-2018 20:06:14 Europe/Berlin] PHP Fatal error:  Uncaught exception 'SMSServiceException' in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php:159
+Stack trace:
+#0 G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php(144): SMSSender->handleResponse('{"destinationRe...')
+#1 G:\xamp\htdocs\chatapp\ussd\listener.php(144): SMSSender->sms('set a username:...', 'tel:88018667423...')
+#2 {main}
+  thrown in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 159
+[20-Jan-2018 20:07:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 151
+[20-Jan-2018 20:07:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 152
+[20-Jan-2018 20:07:37 Europe/Berlin] PHP Fatal error:  Uncaught exception 'SMSServiceException' in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php:159
+Stack trace:
+#0 G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php(144): SMSSender->handleResponse('{"destinationRe...')
+#1 G:\xamp\htdocs\chatapp\ussd\listener.php(144): SMSSender->sms('set a username:...', 'tel:88018667423...')
+#2 {main}
+  thrown in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 159
+[02-Feb-2018 15:02:55 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file, expecting '`' in G:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 578
+[11-Jul-2018 15:59:50 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hotelhil_arif'@'103.92.208.16' (using password: YES) in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 22
+[11-Jul-2018 15:59:50 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 32
+[11-Jul-2018 15:59:50 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 33
+[11-Jul-2018 15:59:50 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 39
+[11-Jul-2018 15:59:51 Europe/Berlin] PHP Fatal error:  Uncaught CassException: IP address, which the request originates from, is not listed withing the allowed-host-address list in F:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php:596
+Stack trace:
+#0 F:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php(570): Subscription->handleResponse(Object(stdClass))
+#1 F:\xamp\htdocs\chatapp\ussd\libs\db.php(41): Subscription->subscribe('tel:88018667423...')
+#2 F:\xamp\htdocs\chatapp\ussd\listener.php(147): DB->ussdQuery('tel:88018667423...')
+#3 {main}
+  thrown in F:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 596
+[11-Jul-2018 16:09:09 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hotelhil_arif'@'103.92.208.16' (using password: YES) in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 22
+[11-Jul-2018 16:09:09 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 32
+[11-Jul-2018 16:09:09 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 33
+[11-Jul-2018 16:09:09 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 39
+[11-Jul-2018 16:09:09 Europe/Berlin] PHP Fatal error:  Uncaught CassException: IP address, which the request originates from, is not listed withing the allowed-host-address list in F:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php:596
+Stack trace:
+#0 F:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php(570): Subscription->handleResponse(Object(stdClass))
+#1 F:\xamp\htdocs\chatapp\ussd\libs\db.php(41): Subscription->subscribe('tel:88018667423...')
+#2 F:\xamp\htdocs\chatapp\ussd\listener.php(147): DB->ussdQuery('tel:88018667423...')
+#3 {main}
+  thrown in F:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 596
+[11-Jul-2018 16:12:08 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hotelhil_arif'@'103.92.208.16' (using password: YES) in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 22
+[11-Jul-2018 16:12:08 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 32
+[11-Jul-2018 16:12:08 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 33
+[11-Jul-2018 16:12:08 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 39
+[11-Jul-2018 16:12:08 Europe/Berlin] PHP Fatal error:  Uncaught CassException: IP address, which the request originates from, is not listed withing the allowed-host-address list in F:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php:596
+Stack trace:
+#0 F:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php(570): Subscription->handleResponse(Object(stdClass))
+#1 F:\xamp\htdocs\chatapp\ussd\libs\db.php(41): Subscription->subscribe('tel:88018667423...')
+#2 F:\xamp\htdocs\chatapp\ussd\listener.php(147): DB->ussdQuery('tel:88018667423...')
+#3 {main}
+  thrown in F:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 596
+[11-Jul-2018 16:13:20 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hotelhil_arif'@'103.92.208.16' (using password: YES) in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 22
+[11-Jul-2018 16:13:20 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 32
+[11-Jul-2018 16:13:20 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 33
+[11-Jul-2018 16:13:20 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in F:\xamp\htdocs\chatapp\ussd\libs\db.php on line 39
+[11-Jul-2018 16:13:20 Europe/Berlin] PHP Fatal error:  Uncaught CassException: IP address, which the request originates from, is not listed withing the allowed-host-address list in F:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php:596
+Stack trace:
+#0 F:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php(570): Subscription->handleResponse(Object(stdClass))
+#1 F:\xamp\htdocs\chatapp\ussd\libs\db.php(41): Subscription->subscribe('tel:88018667423...')
+#2 F:\xamp\htdocs\chatapp\ussd\listener.php(147): DB->ussdQuery('tel:88018667423...')
+#3 {main}
+  thrown in F:\xamp\htdocs\chatapp\ussd\libs\bdapps_cass_sdk.php on line 596

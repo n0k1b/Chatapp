@@ -1,0 +1,17 @@
+[25-Jan-2018 15:32:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\sms\libs\bdapps_cass_sdk.php on line 160
+[25-Jan-2018 15:32:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in G:\xamp\htdocs\chatapp\sms\libs\bdapps_cass_sdk.php on line 161
+[26-Jan-2018 11:00:51 Europe/Berlin] PHP Fatal error:  Call to undefined method DB::helpText() in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 94
+[26-Jan-2018 11:02:15 Europe/Berlin] PHP Fatal error:  Call to undefined method DB::helpText() in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 94
+[26-Jan-2018 11:02:38 Europe/Berlin] PHP Fatal error:  Call to undefined method DB::helpText() in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 94
+[26-Jan-2018 11:10:12 Europe/Berlin] PHP Fatal error:  Call to undefined method DB::helpText() in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 94
+[26-Jan-2018 11:10:52 Europe/Berlin] PHP Fatal error:  Call to undefined method DB::helpText() in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 94
+[26-Jan-2018 11:13:16 Europe/Berlin] PHP Fatal error:  Call to undefined method DB::helpText() in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 94
+[28-Jan-2018 20:53:51 Europe/Berlin] PHP Notice:  Undefined variable: c in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 795
+[28-Jan-2018 21:06:09 Europe/Berlin] PHP Notice:  Undefined variable: c in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 795
+[28-Jan-2018 21:21:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 817
+[28-Jan-2018 21:22:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 817
+[28-Jan-2018 21:22:45 Europe/Berlin] PHP Notice:  Undefined variable: c in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 796
+[28-Jan-2018 21:30:10 Europe/Berlin] PHP Notice:  Undefined variable: c in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 802
+[28-Jan-2018 21:30:36 Europe/Berlin] PHP Notice:  Undefined variable: c in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 802
+[28-Jan-2018 21:30:55 Europe/Berlin] PHP Notice:  Undefined variable: c in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 842
+[28-Jan-2018 21:41:45 Europe/Berlin] PHP Notice:  Undefined variable: c in G:\xamp\htdocs\chatapp\sms\libs\db.php on line 842

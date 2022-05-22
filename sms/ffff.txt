@@ -1,0 +1,1 @@
+"{\"destinationResponses\":[{\"timeStamp\":\"20180125012451\",\"address\":\"tel:8801866742381\",\"requestId\":\"1516821891228\",\"statusDetail\":\"Success\",\"statusCode\":\"S1000\"}],\"requestId\":\"1516821891228\",\"statusDetail\":\"Success\",\"version\":\"0.1\",\"statusCode\":\"S1000\"}"
